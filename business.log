@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.07.0 (TeX Live 2018)  (format=lualatex 2018.6.15)  3 JUL 2018 09:53
+This is LuaTeX, Version 1.07.0 (TeX Live 2018)  (format=lualatex 2018.6.15)  4 JUL 2018 13:25
  system commands enabled.
 **business.tex
 (./business.tex
@@ -35,7 +35,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.165 seconds
+luaotfload | main : initialization completed in 0.149 seconds
 (/usr/local/texlive/2018/texmf-dist/tex/latex/memoir/memoir.cls
 Document Class: memoir 2018/04/04 v3.7g configurable book, report, article docum
 ent class
@@ -1793,7 +1793,7 @@ ive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive
 2018/texmf-dist/fonts/type1/public/mathpazo/fplmri.pfb></usr/local/texlive/2018/
 texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2018/texmf-di
 st/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on business.pdf (292 pages, 983054 bytes).
+Output written on business.pdf (292 pages, 983068 bytes).
 
 PDF statistics: 3370 PDF objects out of 3580 (max. 8388607)
  3026 compressed objects within 31 object streams
